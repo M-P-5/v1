@@ -43,6 +43,7 @@
 
 ## Random stuff
 
+* **$avatar [mention/user]** - Sends someone\'s avatar at its original resolution.
 * **$distance [latitude1] [longitude1] [latitude2] [longitude2]** - Get the distance between the sets of coordinates
 * **$dogs** - Find some cute dog pictures.
 * **$flipcoin** - Flip a coin.
