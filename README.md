@@ -4,7 +4,7 @@
 
 * **$addrole [user] [role]** - Add a role to an user on your server, in order to assign a role the bot role must be above the others.
 * **$ban [user] [reason]** - Ban an user from the server.
-* **$deletemsg [number]** - Delete an amount of messages, the number must be between 2 and 100.
+* **$clear [number]** - Delete an amount of messages, the number must be between 2 and 100.
 * **$kick [user] [reason]** - Kick an user from the server.
 * **$mute [user] [ms]** - Mute an user for a specific amount of time, you have to create a new role called mute to make the command work.
 * **$removerole [user] [role]** - Remove a role of an user.
