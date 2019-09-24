@@ -43,7 +43,7 @@
 
 ## Random stuff
 
-* **$avatar [mention/user]** - Sends someone\'s avatar at its original resolution.
+* **$avatar [mention/user]** - Sends someone's avatar at its original resolution. You can specify the user by giving their user name or by pinging them. Not specifying any users gives a link to your own avatar. Typing 'server' instead of specifying a user gives the server icon.
 * **$distance [latitude1] [longitude1] [latitude2] [longitude2]** - Get the distance between the sets of coordinates
 * **$dogs** - Find some cute dog pictures.
 * **$flipcoin** - Flip a coin.
