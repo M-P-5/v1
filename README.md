@@ -26,7 +26,7 @@
 * **$uptime** - Get bot uptime.
 * **$userinfo** - Get your user info.
 
-## ~~Music~~ ######SOON ^^
+## ~~Music~~ **Coming soon** ^^
 
 * **~~$deletetrack [PositionNumberInQueue]~~** ~~- Delete a song from the queue, if you want know your current queue, just type $queue and you will get the songs.~~
 * **~~$joinchanne~~l** ~~- Make the bot join in a voice channel, you must be in a voice channel.~~
@@ -55,4 +55,4 @@
 * **$setafk [status]** - Set your status afk or notafk.
 * **$weather [location]** - Get the forecast information for a location.
 
-# Created by @666Jayce - Jayce oɢ#6666
+###### Created by @666Jayce - Jayce oɢ#6666
