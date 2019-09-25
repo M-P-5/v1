@@ -26,7 +26,7 @@
 * **$uptime** - Get bot uptime.
 * **$userinfo** - Get your user info.
 
-## ~~Music~~
+## ~~Music~~ ######SOON ^^
 
 * **~~$deletetrack [PositionNumberInQueue]~~** ~~- Delete a song from the queue, if you want know your current queue, just type $queue and you will get the songs.~~
 * **~~$joinchanne~~l** ~~- Make the bot join in a voice channel, you must be in a voice channel.~~
