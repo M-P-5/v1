@@ -53,4 +53,4 @@
 * **$setafk [status]** - Set your status afk or notafk.
 * **$weather [location]** - Get the forecast information for a location.
 
-###### Created by @666Jayce - Jayce oɢ#6666
+###### Created by 1816#1816
